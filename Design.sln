@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design", "Design\Design.csproj", "{6C6FA165-89B6-41BF-B7DE-95E8552AD4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignMethod", "DesignMethod\DesignMethod.csproj", "{EADD02C1-97D4-469F-8C33-B52F289CB603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C6FA165-89B6-41BF-B7DE-95E8552AD4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6FA165-89B6-41BF-B7DE-95E8552AD4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6FA165-89B6-41BF-B7DE-95E8552AD4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6FA165-89B6-41BF-B7DE-95E8552AD4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADD02C1-97D4-469F-8C33-B52F289CB603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADD02C1-97D4-469F-8C33-B52F289CB603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADD02C1-97D4-469F-8C33-B52F289CB603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADD02C1-97D4-469F-8C33-B52F289CB603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://yigedandandenanren.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Design\\Design.csproj
+		SccProjectName1 = Design
+		SccLocalPath1 = Design
+		SccProjectUniqueName2 = DesignMethod\\DesignMethod.csproj
+		SccProjectName2 = DesignMethod
+		SccLocalPath2 = DesignMethod
+	EndGlobalSection
+EndGlobal
